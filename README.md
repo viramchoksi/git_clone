@@ -1,12 +1,12 @@
 ### `Project definition`
 
-In this project i create git dashboard Boards clone page.you can simply add new cards , modify card's progress - is it open or closed or in hold , create new custom progress and some other stuff.
+In this project i create git dashboard Boards clone page.you can simply add new cards ,modify card's progress - is it open or closed or in hold , create new custom progress and some other stuff.
 
 you can simply drag cards from one section to other section and it will move to that section.
 
 you can modift it's details by simply clicking the card that you want to modify.
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
