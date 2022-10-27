@@ -1,10 +1,10 @@
-import logo from './logo.svg';
-import './App.css';
+import Progressbox from "./Components/Progressbox";
+import Progresspage from "./Components/Progresspage";
 
 function App() {
   return (
     <div className="">
-
+      <Progressbox />
     </div>
   );
 }
